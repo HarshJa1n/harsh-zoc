@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b16b6adb.css",
+    "main.css": "/static/css/main.0e0e81ba.css",
     "main.js": "/static/js/main.1d0c54dd.js",
     "static/media/zocketLogo.png": "/static/media/zocketLogo.5d392551805035e2648d.png",
     "static/media/cake1end.png": "/static/media/cake1end.8c683c6f958cda6b6ee3.png",
@@ -8,11 +8,11 @@
     "static/media/cake2end.png": "/static/media/cake2end.6b91b3c683cb37c554cc.png",
     "static/media/cake4end.png": "/static/media/cake4end.605345bc492c7c325c97.png",
     "index.html": "/index.html",
-    "main.b16b6adb.css.map": "/static/css/main.b16b6adb.css.map",
+    "main.0e0e81ba.css.map": "/static/css/main.0e0e81ba.css.map",
     "main.1d0c54dd.js.map": "/static/js/main.1d0c54dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.b16b6adb.css",
+    "static/css/main.0e0e81ba.css",
     "static/js/main.1d0c54dd.js"
   ]
 }
