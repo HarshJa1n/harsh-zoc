@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e0e81ba.css",
-    "main.js": "/static/js/main.730b1d0e.js",
-    "static/media/zocketLogo.png": "/static/media/zocketLogo.5d392551805035e2648d.png",
-    "static/media/cake1end.png": "/static/media/cake1end.8c683c6f958cda6b6ee3.png",
-    "static/media/cake3end.png": "/static/media/cake3end.2c62977febb2f265c525.png",
-    "static/media/cake2end.png": "/static/media/cake2end.6b91b3c683cb37c554cc.png",
-    "static/media/cake4end.png": "/static/media/cake4end.605345bc492c7c325c97.png",
-    "index.html": "/index.html",
-    "main.0e0e81ba.css.map": "/static/css/main.0e0e81ba.css.map",
-    "main.730b1d0e.js.map": "/static/js/main.730b1d0e.js.map"
+    "main.css": "/harsh-zoc/static/css/main.0e0e81ba.css",
+    "main.js": "/harsh-zoc/static/js/main.c7028631.js",
+    "static/media/zocketLogo.png": "/harsh-zoc/static/media/zocketLogo.5d392551805035e2648d.png",
+    "static/media/cake1end.png": "/harsh-zoc/static/media/cake1end.8c683c6f958cda6b6ee3.png",
+    "static/media/cake3end.png": "/harsh-zoc/static/media/cake3end.2c62977febb2f265c525.png",
+    "static/media/cake2end.png": "/harsh-zoc/static/media/cake2end.6b91b3c683cb37c554cc.png",
+    "static/media/cake4end.png": "/harsh-zoc/static/media/cake4end.605345bc492c7c325c97.png",
+    "index.html": "/harsh-zoc/index.html",
+    "main.0e0e81ba.css.map": "/harsh-zoc/static/css/main.0e0e81ba.css.map",
+    "main.c7028631.js.map": "/harsh-zoc/static/js/main.c7028631.js.map"
   },
   "entrypoints": [
     "static/css/main.0e0e81ba.css",
-    "static/js/main.730b1d0e.js"
+    "static/js/main.c7028631.js"
   ]
 }
