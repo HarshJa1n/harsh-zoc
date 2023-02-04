@@ -9,19 +9,23 @@ import Customers from "./pages/Customers";
 import CreateNewCampaign from "./components/CreateNewCampaign";
 
 const AppRoutes = () => {
-    return (
-        <BrowserRouter>
-            <Fragment>
-                <Routes>
-                    <Route exact path="/" element={<Dashboard />} />
-                    <Route exact path="/campaign" element={<Campaign />} />
-                    <Route exact path="/createNewCampaign" element={<CreateNewCampaign />} />
-                    <Route exact path="/products" element={<Products />} />
-                    <Route exact path="/customers" element={<Customers />} />
-                </Routes>
-			</Fragment>
-        </BrowserRouter>
-    );
+  return (
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <Fragment>
+        <Routes>
+          <Route exact path="/" element={<Dashboard />} />
+          <Route exact path="/campaign" element={<Campaign />} />
+          <Route
+            exact
+            path="/createNewCampaign"
+            element={<CreateNewCampaign />}
+          />
+          <Route exact path="/products" element={<Products />} />
+          <Route exact path="/customers" element={<Customers />} />
+        </Routes>
+      </Fragment>
+    </BrowserRouter>
+  );
 };
 
 export default AppRoutes;
